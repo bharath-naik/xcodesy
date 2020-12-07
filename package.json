@@ -1,0 +1,19 @@
+{
+  "name": "padapi",
+  "version": "1.0.0",
+  "description": "api for actionpad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pad",
+    "api"
+  ],
+  "author": "bharath",
+  "license": "ISC",
+  "dependencies": {
+    "ep_automatic_logut": "^1.0.8",
+    "etherpad-lite-client": "^0.9.0"
+  }
+}
