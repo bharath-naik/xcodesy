@@ -1,6 +1,6 @@
 const api = require('etherpad-lite-client');
 const etherpad = api.connect({
-  apikey: '2eebd85eb81f5bf82a08b79446c915832a19f980a4b00bcfe36ba2c710095ceb',
+  apikey: 'long api key fro APIKEY of etherpad lite',
   host: 'localhost',
   port: 9001,
 })
